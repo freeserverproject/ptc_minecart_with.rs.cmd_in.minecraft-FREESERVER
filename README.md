@@ -1,4 +1,4 @@
-# ptc-MINECRAFT-minecart<br>
+# ptc_minecart_with.rs.cmd_in.minecraft<br>
 ※現在は、Java版Minecraftサーバー"FREESERVER"向けに開発しています。<br>
 Minecraftのレッドストーン回路と、若干のコマンドを用いて、
 完全な自動運転が可能なトロッコ鉄道を制作しています。<br>
